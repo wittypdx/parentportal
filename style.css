@@ -1,0 +1,62 @@
+body {
+	font-family: 'Copse', serif;
+	background: url("site_images/lfis.background.gif"), repeat;
+}
+
+p {
+	font-size: 1.15em;
+}
+
+.container {
+	width: 80%; 
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.nav-tabs>li>a {
+	font-size: 1.25em; 
+	color: white;
+}
+.nav-tabs>li {
+	background: #75B9AF;
+	border: 1px solid darkgrey;
+	margin: .5%;
+	border-radius: 15px;
+}
+
+.nav-tabs>li>a:hover {
+	background: #A1FFF1;
+	border: 1px solid darkgrey;
+	border-radius: 15px;
+	color: darkgrey;
+}
+
+#sidebar {
+	background: #BDB8B5;
+	border-radius: 10px; 
+	border: 1px solid black;
+}
+
+#sidebar>img {
+	width:80%;
+	border-radius: 15px;
+	padding: 3% 0; 
+}
+
+#sidebar>h4 {
+	text-align: center; 
+}
+
+#sidebar>p {
+	text-align: center; 
+}
+
+#docs>ul {
+	font-size: 1.3em;
+}
+
+#logo>a>img {
+	display: inline-block;
+	width: 5%;
+	margin: 3% 1% 1% 1%;
+}
