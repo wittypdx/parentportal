@@ -7,6 +7,10 @@ p {
 	font-size: 1.15em;
 }
 
+a {
+	color: #5E9693;
+}
+
 .container {
 	width: 80%; 
 	margin-left: auto;
@@ -60,4 +64,3 @@ p {
 	width: 5%;
 	margin: 3% 1% 1% 1%;
 }
-
